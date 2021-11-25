@@ -1,0 +1,2 @@
+VISION_KEY_PATH = 'AIzaSyBX8Njbm_42yb5At8cuvbHbNhyI3oj3ojU'
+BOT_KEY = 'token="2143804610:AAEcAL0UlBReiJnut6EkcLrjrnEXaxIZqLg"'
